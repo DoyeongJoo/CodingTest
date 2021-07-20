@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main()
 {
     // 영문장 원상복구 (공백 제거 및 대문자->소문자)
